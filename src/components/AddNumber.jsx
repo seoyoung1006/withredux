@@ -1,4 +1,3 @@
-import { type } from "@testing-library/user-event/dist/type";
 import React, {Component} from "react";
 import store from "../store";
 class AddNumber extends Component{
