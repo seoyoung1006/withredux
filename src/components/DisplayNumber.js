@@ -5,7 +5,7 @@ class DisplayNumber extends Component{
         return(
             <div>
                 <h1>Display Number</h1>
-                <input type="text" value="0" readonly></input>
+                <input type="text" value={this.props.number} readonly></input>
             </div>
         )
     }
