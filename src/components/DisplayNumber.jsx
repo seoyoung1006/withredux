@@ -17,5 +17,3 @@ class DisplayNumber extends Component{
         )
     }
 }
-
-export default DisplayNumber;
